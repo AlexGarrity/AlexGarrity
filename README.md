@@ -3,7 +3,7 @@
 ## Languages
 - My preferred language at the moment is **Rust**
 - My other languages are **C++** / **C**, **F#**, **TS/JS** with **React** / **Remix**, and **Python** in order of experience.
-    - The **C** and **C++** go somewhat hand-in-hand (although they're definitely *not* the same language). I use C++ where I can but sometimes C is unavoidable.
+    - The **C** and **C++** go somewhat hand-in-hand - I use C++ where I can but sometimes C is unavoidable.
     - **F#** I use profesionally, and is generally very nice to use once you get your head around thinking functionally (learning Rust first helped with that transition).
     - **TypeScript** and **React** I've used in a professional capacity, and I enjoy the simplicity of them. Frameworks like [**Remix**](https://github.com/remix-run) make the process much more enjoyable.
     - **Python** I find incredibly useful for quick scripting, prototyping, and other automations. It's also very much a go-to for quick data analysis.
